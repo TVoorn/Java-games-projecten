@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=menu\ x\ y
+comment0.target=Building(WorldHarborGameProductions,\ int,\ int)
+comment1.params=robbery
+comment1.target=void\ effect(Robbery)
+comment1.text=\r\n\ Apply\ effect\ to\ the\ robbery\ thread\r\n\ @param\ robbery\ -\ the\ robbery\ thread\r\n
+comment2.params=
+comment2.target=void\ showDropdownList()
+comment2.text=\r\n\ Show\ a\ list\ with\ possible\ actions\r\n
+comment3.params=button
+comment3.target=boolean\ performAction(ActorButton)
+comment4.params=
+comment4.target=int\ getX()
+comment4.text=\r\n\ The\ X\ location\ of\ the\ building\r\n
+comment5.params=
+comment5.target=int\ getY()
+comment5.text=\r\n\ The\ Y\ location\ of\ the\ building\r\n
+numComments=6

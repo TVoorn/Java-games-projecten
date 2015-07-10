@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.params=countDown\ displayTime\ startingTime\ text
+comment0.target=Timer(boolean,\ boolean,\ int,\ java.lang.String)
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ Timer\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment2.params=
+comment2.target=void\ youLose()
+comment2.text=\r\n\ Alle\ objecten\ uit\ de\ wereld\ verwijderen\r\n\ \ \ \ \ \ \ Een\ bericht\ aan\ de\ gebruiker\ laten\ zien\r\n\ \ \ \ \ \ \ Kijken\ welk\ level\ hij\ nu\ moet\ gaan\ laden\ \ \ \ \r\n
+comment3.params=
+comment3.target=void\ drawTime()
+comment3.text=\r\n\ The\ drawing\ method\ of\ the\ clock.\r\n\ This\ method\ draws\ the\ current\ value\ of\ your\ clock\ onto\ the\ clock\ object.\r\n
+comment4.params=
+comment4.target=boolean\ timeUp()
+comment4.text=\r\n\ Check\ whether\ the\ time\ is\ up.\r\n\ \r\n\ @return\r\n\ \ \ \ \ \ Returns\ true\ if\ the\ time\ is\ up.\ If\ the\ clock\ is\ no\ countdown\ clock\ the\ method\ will\ return\ false.\r\n
+comment5.params=
+comment5.target=void\ startClock()
+comment5.text=\r\n\ Start\ the\ clock.\r\n
+comment6.params=
+comment6.target=void\ stopClock()
+comment6.text=\r\n\ Pause\ the\ clock.\r\n
+comment7.params=
+comment7.target=void\ resetClock()
+comment7.text=\r\n\ Reset\ the\ clock.\r\n
+numComments=8

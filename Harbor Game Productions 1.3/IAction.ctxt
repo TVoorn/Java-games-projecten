@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=button
+comment0.target=boolean\ performAction(ActorButton)
+comment0.text=\r\n\ perform\ an\ action\r\n\ @return\ succes\r\n
+numComments=1

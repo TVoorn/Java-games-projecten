@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.params=width\ height\ cellsize
+comment0.target=WorldHarborGameProductions(int,\ int,\ int)
+comment1.params=width\ height\ cellsize\ bounded
+comment1.target=WorldHarborGameProductions(int,\ int,\ int,\ boolean)
+comment2.params=
+comment2.target=void\ init()
+comment2.text=\r\n\ Initialize\ all\ variables\r\n
+comment3.params=amount\ strings
+comment3.target=void\ changeWealth(int,\ java.lang.String[])
+comment3.text=\r\n\ Change\ the\ wealth\ and\ update\ the\ money\ display\r\n
+comment4.params=
+comment4.target=void\ resetMapTexture()
+comment4.text=\r\n\ Set\ the\ map\ background\ back\ to\ the\ default\ and\ draw\ the\ HUD\r\n
+comment5.params=
+comment5.target=void\ spawnThief()
+comment5.text=\r\n\ Spawn\ thieves\ if\ world\ is\ instanceof\ WorldTowerDefense\r\n
+comment6.params=
+comment6.target=java.lang.String\ getMapName()
+comment6.text=\r\n\ The\ name\ of\ the\ backgrounds\ texture\r\n
+numComments=7

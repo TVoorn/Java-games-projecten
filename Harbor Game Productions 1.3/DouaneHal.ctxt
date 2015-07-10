@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=firstWorld
+comment0.target=DouaneHal(greenfoot.World)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ DouaneHal.\r\n\ \r\n
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ speelVeld()
+comment3.params=
+comment3.target=ScoreBord\ getScoreBord()
+comment4.params=button
+comment4.target=void\ buttonPressed(Button)
+numComments=5

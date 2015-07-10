@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.params=
+comment0.target=ActorTurret()
+comment1.params=
+comment1.target=void\ act()
+comment2.params=thieves
+comment2.target=void\ onThievesInRange(java.util.List)
+comment2.text=\r\n\ Called\ when\ thieves\ enter\ this\ buildings'\ range\r\n\ @param\ Thieves\ -\ the\ list\ of\ thieves\r\n
+numComments=3

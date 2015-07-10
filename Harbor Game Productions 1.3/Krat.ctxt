@@ -1,0 +1,30 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Krat()
+comment0.text=\r\n\ id\ 1\ \=\ banaan\ \ \r\n\ id\ 2\ \=\ tshirt\r\n\ id\ 3\ \=\ pistool\r\n\ id\ 4\ \=\ bom\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ Enemy\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment10.params=x
+comment10.target=void\ addPunten(int)
+comment11.params=
+comment11.target=int\ getId()
+comment12.params=
+comment12.target=void\ stopGame()
+comment2.params=
+comment2.target=void\ showInhoudKrat()
+comment3.params=
+comment3.target=void\ showKrat()
+comment4.params=x
+comment4.target=void\ moveKrat(int)
+comment5.params=
+comment5.target=boolean\ xrayLijnBeginTouched()
+comment6.params=
+comment6.target=boolean\ xrayLijnEindTouched()
+comment7.params=
+comment7.target=boolean\ checklijn()
+comment8.params=
+comment8.target=boolean\ checkPlayer()
+comment9.params=
+comment9.target=void\ respawn()
+numComments=13

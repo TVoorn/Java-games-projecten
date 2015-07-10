@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=description\ action
+comment0.target=ActorButton(java.lang.String,\ IAction)
+comment1.params=description\ action
+comment1.target=ActorButton(java.lang.String[],\ IAction)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=flag
+comment3.target=void\ dissapearOnFocusLost(boolean)
+comment3.text=\r\n\ Set\ to\ true\ if\ this\ button\ should\ dissapear\ when\ the\ mouse\ is\ moved\ away\r\n\ @param\ flag\r\n
+comment4.params=fileName
+comment4.target=void\ setImage(java.lang.String)
+numComments=5

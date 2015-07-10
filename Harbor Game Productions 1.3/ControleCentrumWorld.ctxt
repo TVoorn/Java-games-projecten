@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=firstWorld
+comment0.target=ControleCentrumWorld(greenfoot.World)
+comment0.text=\r\n\ Constructor\ voor\ ControleCentrumWorld\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Methode\ act\r\n\ Als\ er\ enter\ wordt\ gedruk\ en\ de\ tellerEnter\ is\ 0\ dan\ start\ het\ spel\r\n\ Anders\ als\ er\ backspace\ wordt\ gedrukt\ en\ de\ tellerBackspace\ is\ 0\ dan\ ga\ je\ naar\ het\ menu\ \r\n
+comment2.params=button
+comment2.target=void\ buttonPressed(Button)
+comment2.text=\r\n\ Methode\ buttonPressed\ van\ de\ interface\ ButtonController\r\n\ Als\ er\ op\ de\ back\ knop\ wordt\ gedrukt\ dan\ ga\ je\ naar\ het\ menu\r\n
+comment3.params=
+comment3.target=ScoreBord\ getScoreBord()
+comment3.text=\r\n\ Methode\ getScoreBord\r\n\ Return\ scoreBord\r\n
+comment4.params=
+comment4.target=void\ vulSchepen()
+comment4.text=\r\n\ Methode\ vulSchepen\r\n\ Er\ worden\ 3\ soorten\ scheppen\ toegevoegd\ aan\ de\ wereld\r\n
+numComments=5

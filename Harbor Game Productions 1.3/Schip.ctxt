@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=punten
+comment0.target=Schip(int)
+comment1.params=
+comment1.target=void\ act()
+comment2.params=x
+comment2.target=void\ setSpeed(int)
+comment3.params=
+comment3.target=void\ respawn()
+comment4.params=x
+comment4.target=void\ addPuntenToScoreBord(int)
+comment5.params=
+comment5.target=void\ stopGame()
+comment6.params=
+comment6.target=void\ playSound()
+numComments=7

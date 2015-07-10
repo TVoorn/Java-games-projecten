@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=
+comment0.target=WorldMenu()
+comment1.params=
+comment1.target=void\ init()
+comment1.text=\r\n\ Initialize\ all\ variables\r\n
+comment2.params=button
+comment2.target=boolean\ performAction(ActorButton)
+comment3.params=button
+comment3.target=boolean\ performAction(ActorButton)
+comment4.params=
+comment4.target=java.lang.String\ getMapName()
+comment4.text=\r\n\ The\ name\ of\ the\ backgrounds\ texture\r\n
+comment5.params=
+comment5.target=void\ act()
+comment6.params=button
+comment6.target=boolean\ performAction(ActorButton)
+comment7.params=button
+comment7.target=boolean\ performAction(ActorButton)
+comment8.params=
+comment8.target=void\ checkMouseClick()
+comment8.text=\r\n\ Check\ if\ the\ mouse\ has\ only\ clicked\ once\r\n
+numComments=9

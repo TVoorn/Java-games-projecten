@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=world\ canCross
+comment0.target=PathFinder(WorldTowerDefense,\ boolean)
+comment1.params=me\ dest
+comment1.target=java.util.List\ findPath(greenfoot.Actor,\ greenfoot.Actor)
+comment1.text=\r\n\ Calculate\ a\ path\ between\ two\ actors\r\n\ @param\ me\ -\ the\ origin\ actor\r\n\ @param\ dest\ -\ the\ destination\ actor\r\n
+comment2.params=me\ destX\ destY
+comment2.target=java.util.List\ findPath(greenfoot.Actor,\ int,\ int)
+comment2.text=\r\n\ Calculate\ a\ path\ an\ actor\ and\ coords\r\n\ @param\ me\ -\ the\ origin\ actor\r\n\ @param\ destX\ -\ the\ dest\ X\ coord\r\n\ @param\ destY\ -\ the\ dest\ Y\ coord\r\n
+comment3.params=beginX\ beginY\ destX\ destY
+comment3.target=java.util.List\ findPath(int,\ int,\ int,\ int)
+comment3.text=\r\n\ Calculate\ a\ path\ between\ 2\ coords\r\n\ @param\ beginX\ -\ the\ begin\ X\ coord\r\n\ @param\ beginY\ -\ the\ begin\ Y\ coord\r\n\ @param\ destX\ -\ the\ dest\ X\ coord\r\n\ @param\ destY\ -\ the\ dest\ Y\ coord\r\n
+numComments=4

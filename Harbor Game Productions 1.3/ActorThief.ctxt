@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ act()
+comment1.params=amount
+comment1.target=void\ damage(int)
+comment1.text=\r\n\ Apply\ damage\ and\ award\ money\ on\ kill\r\n\ @param\ amount\ -\ the\ amount\ to\ add\r\n
+comment2.params=path
+comment2.target=void\ setPath(java.util.List)
+comment2.text=\r\n\ Set\ this\ thiefs\ path\r\n\ @param\ path\ -\ the\ new\ path\r\n
+numComments=3

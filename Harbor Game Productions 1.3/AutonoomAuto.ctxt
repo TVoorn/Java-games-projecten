@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=
+comment0.target=AutonoomAuto()
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ In\ de\ act\ word\ er\ gekeken\ of\ de\ auto\ een\ container,\ \r\n\ de\ lading,\ de\ carcrash\ of\ het\ menu\ heeft\ gevonden\r\n\ Als\ die\ een\ van\ de\ dingen\ vind\ gaat\ die\ iets\ uitvoeren\r\n
+comment2.params=
+comment2.target=boolean\ foundCarcrash()
+comment3.params=
+comment3.target=boolean\ foundContainer()
+comment4.params=
+comment4.target=boolean\ foundLading()
+comment5.params=
+comment5.target=boolean\ foundMenu()
+comment6.params=
+comment6.target=void\ stopGame()
+numComments=7
